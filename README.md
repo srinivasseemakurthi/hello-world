@@ -6,3 +6,4 @@ step2:
        github Desktop.
     - clicked commit chnages
     - again added thisline from GUI by clicking on pencil icon and clicked on commit chnages 
+    - close the pull request 
